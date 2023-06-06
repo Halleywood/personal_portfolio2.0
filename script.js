@@ -40,7 +40,7 @@ window.requestAnimationFrame = window.requestAnimationFrame
 
 // requestAnimationFrame(changeImage);
 
-const activeCards = document.querySelectorAll('.card-body');
+const activeCards = document.querySelectorAll('.links > a');
 
 function changeActiveCard(){
     activeCards.forEach(card=>{
