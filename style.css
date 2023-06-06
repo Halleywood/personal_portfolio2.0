@@ -131,7 +131,7 @@ body{
         align-items: center;
         margin: 0;
         display:none;
-        /* transition: all .25s .1s ease-out; */
+        transition: all .25s .1s ease-out;
         overflow-y: auto;
       }
       .section-content2 {
@@ -139,7 +139,7 @@ body{
         align-items: center;
         margin: 0;
         display:none;
-        /* transition: all .25s .1s ease-out; */
+        transition: all .25s .1s ease-out;
         overflow-y: auto;
         margin-bottom:100px;
       }
@@ -148,7 +148,7 @@ body{
         align-items: center;
         margin: 0;
         display:none;
-        /* transition: all .25s .1s ease-out; */
+        transition: all .25s .1s ease-out;
         overflow-y: auto;
         margin-bottom:100px;
       }
